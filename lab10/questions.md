@@ -2,7 +2,7 @@
 
 ### Question 1: What happens when you swap the delimiter from commas to tabs? How does the preview change? 
 (Make sure "disable live preview is not checked if you don't see a change)
-
+when you use CSV, there are more columns and data is more organized. When switching to TSV,
 ### Question 2: Try sorting the scientificName facet by name and by count. What problems are there with the data?
 
 ### Question 3: Use faceting to figure out the following:
